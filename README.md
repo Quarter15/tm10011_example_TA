@@ -1,3 +1,3 @@
 Hello this is an example of git
 second edition finished
-push failed
+push failed 1
