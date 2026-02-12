@@ -1,11 +1,3 @@
 # tm10011_example_TA
-Exampe test repository for TM10011 course 2025-2025
+all different
 
-edition1
-
-feature brunch
-edition2 main branch
-hotfix00
-
-feature gose one more step
-real main goes one more step
